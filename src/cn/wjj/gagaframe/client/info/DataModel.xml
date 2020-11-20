@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <classSet name="DataModel" packageUrl="cn.wjj.gagaframe.info" note="框架的全部数据" allData="" groupName=""/>
+  <varsList>
+    <item name="deviceId" type="String" defaultVar="" note="设备的唯一ID"/>
+  </varsList>
+</data>
